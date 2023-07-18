@@ -6,7 +6,7 @@ This Flutter Pizza Order App is a mobile application that allows users to conven
 
 ## Youtube Video Link
 
-https://www.youtube.com/shorts/r6TXaKoJkcU
+https://youtube.com/shorts/K0Y9t747wXc?feature=share
 
 ## Key Features
 
